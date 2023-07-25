@@ -21,7 +21,6 @@ For small changes:
   expected
 * **Note:** Every page on the website has a small "edit" icon in the top right corner which leads you straight to the online editor for that page
 
-For larger changes:
 
 * `poetry install`
 * `poetry run mkdocs serve`
